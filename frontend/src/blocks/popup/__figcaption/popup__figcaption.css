@@ -1,0 +1,9 @@
+.popup__figcaption{
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  color: #fff;
+  margin: 10px 0 0 0;
+  font-size: 12px;
+  line-height: 14.52px;
+  max-width: 75vw;
+  overflow: hidden;
+}

@@ -1,0 +1,19 @@
+.header__menu-link{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    transition: 1s linear;
+}
+
+.header__menu-link:hover{
+    color: #A9A9A9;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 917px) {
+    .header__menu-link{
+        padding: 0 19px 0 0;
+    }
+}

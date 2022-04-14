@@ -1,0 +1,9 @@
+.page{
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+  background-color: #000000;
+  min-height: 100vh;
+}

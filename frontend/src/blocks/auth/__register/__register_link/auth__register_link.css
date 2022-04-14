@@ -1,0 +1,13 @@
+.auth__register_link{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.94px;
+    color: #fff;
+    transition: 1s linear;
+}
+
+.auth__register_link:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}

@@ -1,0 +1,5 @@
+.element__caption{
+  justify-content: space-between;
+  background-color: #fff;
+  display: flex;
+}
